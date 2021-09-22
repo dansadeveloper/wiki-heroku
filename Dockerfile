@@ -1,4 +1,4 @@
-FROM requarks/wiki:2
+FROM dansadeveloper/wiki:1.0
 WORKDIR /wiki
 ENV DB_TYPE postgres
 ENV DB_SSL 1
