@@ -1,4 +1,4 @@
-FROM dansadeveloper/wiki:1.0
+FROM dansadeveloper/wiki:1.1
 WORKDIR /wiki
 ENV DB_TYPE postgres
 ENV DB_SSL 1
